@@ -1,0 +1,55 @@
+
+.largeur{
+    /*border: 1px black solid;*/
+    height: 25px !important;
+    width: 25px !important;    
+}
+.couleurGrise{
+    border-radius: 15px;
+    background-color: grey;
+}
+.couleurBlanche{
+    background-color: rgb(253, 249, 249);
+}
+.noir{
+    border-radius: 15px;
+    background-color: black;
+}
+.pomme{
+    background-color: green;
+    border: 2px solid rgb(253, 249, 249);
+    border-radius: 15px;
+}
+#cf{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(253, 249, 249);
+
+}
+.hauteur{
+    height: 25px;
+}
+.fondBlanc{
+    background-color: white;
+}
+h1{
+    font-family: 'Permanent Marker', cursive, sans-serif;
+}
+.noire{
+    color: black;
+}
+.vert{
+    color: green;
+}
+.gris{
+    color: grey;
+}
+p{
+    font-family: 'Caveat', cursive, sans-serif;
+    font-size: 20px;
+}
+.celluleRouge{
+    background-color: red;
+    border: 2px solid rgb(253, 249, 249);
+    border-radius: 15px;
+}
